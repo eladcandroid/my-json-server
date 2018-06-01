@@ -1,7 +1,8 @@
 {
   "reviews": [
     {
-      "name": 1,
+      "id": 1,
+      "name": "Elad",
       "rating": "hello",
       "review": "BLAH BLAH"
     }
