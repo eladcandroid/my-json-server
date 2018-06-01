@@ -2,9 +2,21 @@
   "reviews": [
     {
       "id": 1,
-      "name": "Elad",
-      "rating": "hello",
-      "review": "BLAH BLAH"
+      "name": "Shuki",
+      "rating": 5,
+      "review": "Very good product"
+    },
+    {
+      "id": 2,
+      "name": "Buki",
+      "rating": 3,
+      "review": "I didn't like the color"
+    },
+    {
+      "id": 3,
+      "name": "Zalman",
+      "rating": 4,
+      "review": "Very comfortable"
     }
   ]
 }
