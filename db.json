@@ -17,6 +17,12 @@
       "name": "Zalman",
       "rating": 4,
       "review": "Very comfortable"
-    }
+    },
+    {
+      "id": 4,
+      "name": "Kalman",
+      "rating": 5,
+      "review": "Great feeling"
+    }    
   ]
 }
